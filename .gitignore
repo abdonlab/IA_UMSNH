@@ -1,2 +1,5 @@
+# Modelo principal (se mantiene fuera del repositorio por su gran tamaño)
 IA_UMSNH.gguf
-IA_UMSNH.gguf
+
+# Otras versiones de modelos en formato .gguf
+*.gguf
