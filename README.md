@@ -30,3 +30,7 @@ ollama run ia_umsnh
 
 - [Ollama](https://github.com/jmorganca/ollama) o [LM Studio](https://lmstudio.ai/)
 - Herramientas compatibles con el formato GGUF (por ejemplo, `llama.cpp`)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
